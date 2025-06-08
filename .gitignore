@@ -1,0 +1,15 @@
+# Folder dan file besar yang tidak perlu di-push
+dataset/
+models/rf_model.pkl
+models/class_names.npy
+
+# Python build artifacts
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Log dan file sistem
+*.log
+*.DS_Store
